@@ -1,5 +1,5 @@
-streamlit>=1.25.0
+streamlit
 spleeter==2.3.0
 pydub
 ffmpeg-python
-tensorflow<2.12 
+tensorflow==2.10.0
